@@ -1,0 +1,12 @@
+### A faire avant ###
+
+1. Ajouter le dossier complet dans le répertoire /var/www/ sous Linux
+2. Rendre le script executable avec la commande : sudo chmod +x main.sh
+3. Ajouter l'utilisateur www-data au groupe video via la commande : sudo gpasswd -a www-data video
+
+### Utilisation ###
+
+1. Appeler la page via nagivateur web : @IP:port/youtube/youtube.php
+2. Renseigner les URL sur la page
+3. Envoyer le flux
+4. Regarder la vidéo sur la TV branché en HDMI au Raspberry Pi
